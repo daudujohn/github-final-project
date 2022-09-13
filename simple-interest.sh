@@ -6,7 +6,7 @@
 
 # Author: Upkay Lidder (IBM)
 # Additional Authors:
-# <your GitHub username>
+# daudujohn
 
 
 # Input:
